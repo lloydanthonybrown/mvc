@@ -43,5 +43,6 @@ public class View {
         }
 
         System.out.println("The current information in the database is: " + myController.obtainUserValues());
+        System.out.println("The average of these values: ");
     }
 }

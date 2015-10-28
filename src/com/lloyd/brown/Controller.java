@@ -35,5 +35,12 @@ public class Controller {
     }
     // Pass back the variable from Model
 
+    // Perform calculations on the ArrayList
+    // Is it better to perform the calculations manually here in the Controller?
+    // Or would it be better to assign the calculations to a variable here, and pass the results to the View?
+
+    public ArrayList<Integer> obtainAverage(){
+        myModeL.
+    }
 
 }
